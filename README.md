@@ -20,6 +20,7 @@ This compact, card-sized ESP32-based relay board is designed for seamless integr
 
 #### **Step 1:**  Install Arduino IDE
 If you haven’t already installed the Arduino IDE, download and install it from the official website:
+
 👉 [Download Arduino IDE](https://www.arduino.cc/en/software "Download Arduino IDE")
 
 #### Step 2: Install ESP32 Board Support in Arduino IDE
