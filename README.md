@@ -14,7 +14,14 @@ This compact, card-sized ESP32-based relay board is designed for seamless integr
 
 - Apart from these, 12 additional GPIO pins are also available on this board and can be accessed via the external header. The available GPIOs are as follows:
   - **Left Header :** IO32, IO33, IO34, IO35, IO36, IO39
-  - **Bottom Header :** IO12, IO13, IO14, IO15, IO26, IO27 
+  - **Bottom Header :** IO12, IO13, IO14, IO15, IO26, IO27
+ 
+## Wiring Diagram 
+
+<img src="Wiring_Diagram.png"/>
+
+**Disclaimer:**
+When using this relay board for AC switching, ensure proper safety precautions. High-voltage AC can be dangerous and may cause electric shock or fire if not handled correctly. Only qualified personnel should perform installations. Always disconnect power before wiring, and use appropriate insulation and protection. The manufacturer is not responsible for any damage or injury caused by improper use.
 
 ## Step-by-Step Guide to Program this board in Arduino IDE
 
