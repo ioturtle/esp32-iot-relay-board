@@ -2,6 +2,8 @@
 
 This compact, card-sized ESP32-based relay board is designed for seamless integration into IoT and home automation projects. It features four relays connected to GPIO18, GPIO19, GPIO23, and GPIO25, allowing control of multiple electrical appliances. With a built-in Type-C port for both power and programming, along with an automatic programming circuit, flashing firmware is effortless—no need to press any buttons. Additionally, the board offers 12 extra GPIO pins accessible via an external header, making it a versatile solution for DIY enthusiasts and developers.
 
+⚠️ Warning: High voltage on open relay tracks in bottom — avoid contact during operation to prevent electric shock if using it for AC operation.
+
 ## Pinout
 | Relay Board  | ESP32 GPIO Pins |
 |  :---:      |  :---:                |
